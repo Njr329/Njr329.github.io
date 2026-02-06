@@ -28,13 +28,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
 
-I'm a web development student passionate about creating clean, user-friendly interfaces. I believe in **learning by doing** building real projects, making mistakes, and improving every day.
+<p>
+  I'm a web development student passionate about creating clean, user-friendly interfaces.
+  I believe in learning by doing — building real projects, making mistakes, and improving every day.
+</p>
 
-```text
-> Structure and consistency in code
-> Attention to the small details
-> Always seeking to improve
-```
+<ul>
+  <li>Structure and consistency in code</li>
+  <li>Attention to the small details</li>
+  <li>Always seeking to improve</li>
+</ul>
+
 
 <br>
 
@@ -73,12 +77,20 @@ I'm a web development student passionate about creating clean, user-friendly int
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" width="28" /> Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :---: |
-| **TPS Transaction Processing System** | Web-based transaction processing system built as a capstone project. Handles real-time data management and reporting. | `PHP` `Bootstrap` |
-| **Responsive Landing Page** | My first responsive layout exploring modern CSS techniques and mobile-first design principles. | `HTML` `CSS` `Bootstrap` |
-
-> More projects coming soon! I'm always building and experimenting.
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><strong>TPS Transaction Processing System</strong></td>
+    <td>My first web-based TPS created for capstone.</td>
+  </tr>
+  <tr>
+    <td><strong>Responsive Landing Page</strong></td>
+    <td>First layout using HTML, CSS, and Bootstrap.</td>
+  </tr>
+</table>
 
 <br>
 
